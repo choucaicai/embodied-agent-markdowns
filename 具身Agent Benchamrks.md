@@ -25,12 +25,12 @@ EmbodiedBench 是一个面向多模态大模型具身决策能力的综合评测
 
 ### 1.3 完整任务 Example
 
-| 类型 | 任务例子 |
-|---|---|
-| EB-ALFRED long-horizon | 拿起刀，切苹果，把刀放进碗里，把苹果片放进微波炉加热，再把苹果片放到桌上。 |
-| EB-Habitat multi-object rearrangement | 将魔方、扳手和碗分别搬到指定的 counter/table 位置。 |
-| EB-Manipulation low-level | 抓起星形积木并放入银色容器；或把右侧 moon 形物体叠到左侧 star 上。 |
-| EB-Navigation visual target | 根据自然语言提示找到 pillow / toaster 等目标，并尽量靠近它。 |
+| 类型                                    | 任务例子                                    |
+| ------------------------------------- | --------------------------------------- |
+| EB-ALFRED long-horizon                | 拿起刀，切苹果，把刀放进碗里，把苹果片放进微波炉加热，再把苹果片放到桌上。   |
+| EB-Habitat multi-object rearrangement | 将魔方、扳手和碗分别搬到指定的 counter/table 位置。       |
+| EB-Manipulation low-level             | 抓起星形积木并放入银色容器；或把右侧 moon 形物体叠到左侧 star 上。 |
+| EB-Navigation visual target           | 根据自然语言提示找到 pillow / toaster 等目标，并尽量靠近它。 |
 
 ### 1.4 怎么评估
 
